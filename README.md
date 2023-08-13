@@ -3,6 +3,8 @@ Module 18 Challenge
 
 Graded _/100
 
+## Description
+	This project is to practice creating Tableau visualizations and dashboards using available Citi Bike data.
 
 ## Methods:
 	Extract available Citi Bike data and save to local postgres database (source [1]).
@@ -34,3 +36,6 @@ Graded _/100
 
 [3] SQL Query between two dates:
 	https://stackoverflow.com/questions/51377689/sql-select-date-range-by-month-and-year
+
+[4] Calculate distance between two points on Earth:
+	https://www.geeksforgeeks.org/program-distance-two-points-earth/
