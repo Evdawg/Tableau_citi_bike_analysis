@@ -6,18 +6,31 @@ Graded _/100
 
 ## Methods:
 	Extract available Citi Bike data and save to local postgres database (source [1]).
-	Write SQL query to limit data for analysis. Export as CSV.
-	Import CSV data to Tableau for Analysis.
-		Drop null values using Tableau clean and shape operations.
-		Create calculated measures to assist in data analysis.
-		Visualize the data using dashboards to answer bike maintenance and ridership questions.
+		- Manually clean the CSV data where historic data does not provide date values.
 
-Sources:
+
+	Write SQL query to limit data for analysis. Export as CSV.
+
+
+	Import CSV data to Tableau for Analysis.
+		- Drop null values using Tableau clean and shape operations.
+		- Create calculated measures to assist in data analysis.
+		- Visualize the data using dashboards to answer bike maintenance and ridership questions.
+
+
+
+## Sources:
+
+
 [1] Build a PostgreSQL database of Citi Bike data:
 	https://medium.com/@fausto.manon/building-a-citibike-database-with-python-9849a59fb90c
 
 
-[2] 
+
+[2] Relative paths in Python:
+	https://towardsthecloud.com/get-relative-path-python
 
 
-[3] 
+
+[3] SQL Query between two dates:
+	https://stackoverflow.com/questions/51377689/sql-select-date-range-by-month-and-year

@@ -299,8 +299,9 @@ config.yml
 config.ini
 
 # Raw data:
-*.csv
+jc_trip_data.csv
 
+desktop.ini
 
 #------------------------------------------------------------------
 #Pycharm gitignore template:
